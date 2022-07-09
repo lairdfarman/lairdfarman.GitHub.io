@@ -1,0 +1,69 @@
+.center {
+	width: 1200px;
+	margin: 0 auto;
+}
+* {
+	padding: 0;
+	margin: 0
+}
+.about-box {
+	width: 1200px;
+	height: 400px;
+	position: relative;
+}
+.about-box .about-title{
+	width: 1200px;
+	height: 30px;
+	margin-top: 10px;
+}
+.about-box .about-title span{
+	margin-left: 10px;
+	font-family: "微软雅黑";
+	font-size: 18px;
+	font-weight: 900;
+}
+.about-box .about-img{
+	margin-top: 10px;
+	width: 1200px;
+	height: 300px;
+	background: url(../img/about.jpg);
+}
+.about-box .about-main{
+	margin-top: 10px;
+    color: aqua;
+}
+.about-desire{
+	width: 1200px;
+	height: 620px;
+}
+.about-desire .desire-img{
+	width: 489px;
+	height: 500px;
+	background-image: url(../img/desire.jpeg);
+	float: left;
+}
+.about-desire .desire-right{
+	float: right;
+}
+.about-desire .desire-title{
+	margin: 10px;
+    font-weight: 900;
+    color: coral;
+}
+.about-desire .desire-main{
+	margin: 10px;
+}
+.about-desire .desire-main ol{
+	list-style: none;
+	padding: 0 40px;
+}
+.about-desire .desire-main ol li{
+	line-height: 60px;
+	color: #CCCCCC;
+}
+.about-desire .desire-main ol li:hover{
+	color: pink;
+}
+.about-other a:hover{
+	color: blue;
+}

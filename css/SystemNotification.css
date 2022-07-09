@@ -1,0 +1,27 @@
+.notification{
+	width: 1200px;
+	margin: 0 auto;
+}
+.notification_title{
+    width: 1200px;
+    height: 30px;
+    margin-top: 10px;
+}
+.notification .content{
+	width: 1200px;
+	height: 600px;
+	margin-top: 20px;
+}
+.notification .notification_bg{
+	background-image: url(../img/System.jpg);
+	width: 1200px;
+	height: 600px;
+	z-index: -999;
+	opacity: 0.5;
+}
+.notification_content p{
+	margin: 20px;
+	padding: 40px 120px;
+	font-size: 17px;
+	opacity: 1;
+}

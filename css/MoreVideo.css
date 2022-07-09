@@ -1,0 +1,28 @@
+.main{
+	width: 1200px;
+	position: relative;
+	margin: 0 auto;
+}
+.main-title{
+	margin: 10px 0;
+	color: palevioletred;
+}
+.main ul{
+	list-style: none;
+	position: absolute;
+	width: 1200px;
+}
+.main ul li{
+	display: inline-block;
+	margin: 58px;
+}
+.main ul li img{
+	width: 120px;
+	height: 300px;
+}
+.main ul li a{
+	color: black;
+}
+.main ul li a:hover{
+	color: palevioletred;
+}

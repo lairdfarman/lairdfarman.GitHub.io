@@ -1,0 +1,11 @@
+.center{
+	width: 1200px;
+	height: 600px;
+	margin: 0 auto;
+}
+.center-title{
+	margin: 10px 0;
+}
+.center-box p{
+	margin: 1.4em 0;
+}
